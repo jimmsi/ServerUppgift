@@ -1,0 +1,21 @@
+Fri Apr 26 09:20:18 CEST 2024 : Apache Derby Network Server - 10.8.1.2 - (1095077) started and ready to accept connections on port 50000
+----------------------------------------------------------------
+Fri Apr 26 09:21:29 CEST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-018f-1946-bf3f-00002d6ddfe0 
+on database directory /Users/jimmyemanuelsson/Documents/Java/Serverprogrammering/db-derby/bin/hibernate  with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@531d72ca 
+Loaded from file:/Users/jimmyemanuelsson/Documents/Java/Serverprogrammering/db-derby/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.8+9-LTS-211
+user.dir=/Users/jimmyemanuelsson/Documents/Java/Serverprogrammering/db-derby/bin
+derby.system.home=/Users/jimmyemanuelsson/Documents/Java/Serverprogrammering/db-derby/bin
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Apr 26 10:17:16 CEST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance 65f3c17b-018f-1946-bf3f-00002d6ddfe0 
+on database directory /Users/jimmyemanuelsson/Documents/Java/Serverprogrammering/db-derby/bin/hibernateExercise  with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@531d72ca 
+Loaded from file:/Users/jimmyemanuelsson/Documents/Java/Serverprogrammering/db-derby/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.8+9-LTS-211
+user.dir=/Users/jimmyemanuelsson/Documents/Java/Serverprogrammering/db-derby/bin
+derby.system.home=/Users/jimmyemanuelsson/Documents/Java/Serverprogrammering/db-derby/bin
+Database Class Loader started - derby.database.classpath=''
