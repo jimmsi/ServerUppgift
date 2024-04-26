@@ -20,8 +20,6 @@ public class HarnessTest {
         Session session = sf.openSession();
         Transaction tx = session.beginTransaction();
 
-        /*
-
         Book book1 = new Book("De vises sten");
         Book book2 = new Book("Hemligheternas kammare");
         Book book3= new Book("Fången från Askaban");
@@ -36,18 +34,12 @@ public class HarnessTest {
         session.save(book3);
         session.save(author);
 
-        */
-
-        Author authorFromDataBase = session.get(Author.class, 4);
-
-        // Book book1FromDataBase = session.get(Book.class, 1);
+        Author authorFromDataBase = session.get(Author.class, 12);
 
         List<Book> listOfBooks = authorFromDataBase.getListOfBooks();
         for (Book book : listOfBooks) {
             System.out.println(book);
         }
-
-
 
         tx.commit();
         session.close();

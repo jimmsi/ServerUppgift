@@ -14,7 +14,7 @@ public class Author {
     private String address;
     private int age;
     @OneToMany
-    // @JoinColumn(name="AUTHOR_FK")
+    @JoinColumn(name = "AUTHOR_FK")
     private List<Book> listOfBooks;
 
     public Author() {
